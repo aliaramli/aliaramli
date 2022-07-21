@@ -8,4 +8,4 @@
 - I believe my strength is more on reverse engineering, debugging and patching codes, automation scripting, maintaining servers, analyzing performance. Still on a long journey on designing robust, high performance, high availability  system . . . of course if you ask me to create an Application i can do it without any issue. :D
 - My concept of a software is "simple is more". Functionality matters based on user & business requirements.
 - I jotted down my notes at my [blog](https://ubuntuanakramli.blogspot.com/) feel free to pay a visit!
-- You think i have a chance to work with you/your company? send me an email!
+- You think i am a good fit at your company? send me an email!
