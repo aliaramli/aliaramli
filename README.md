@@ -9,4 +9,4 @@
 - My concept of a software is "simple is more". Functionality matters based on user & business requirements.
 - I jotted down my notes at my [blog](https://ubuntuanakramli.blogspot.com/) feel free to pay a visit!
 - Small tools/learning/projects codes all available in my git for your reference ~
-- You think i am a good fit at your company? [send me an email](jaliascv@gmail.com)!
+- You think i am a good fit at your company? [send me an email](mailto:jaliascv@gmail.com)!
