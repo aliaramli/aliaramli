@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Currently I'm enjoying gazing at the 🌞 sun & 🌕 moon
+- Currently I'm enjoy gazing at the 🌞 sun & 🌕 moon
 - Actively looking for a job 🤓!
 - I'm comfortable coding in Python 🐍 , occassionally i code PHP, professionally i can still code in JAVA ☕ 😜 but not my preference.
 - My technology stack will be Linux, Nginx, Mysql, Docker, Wordpress + Woorcommerce, Jenkins, Elasticsearch, Puppet, Munin, 
