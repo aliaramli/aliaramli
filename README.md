@@ -7,6 +7,11 @@ I'm comfortable coding in Python 🐍 , occassionally i code PHP, professionally
 #### Present Job
 And my current job scope is revolving around data transformations, analysis & analytic using PySpark, MatPlotlib, Palantir Foundry. I also make used of Github Copilot agent to assist in daily coding worklow
 
+##### other role
+- assisting team members in any task related
+- r&d and apply AI agent application on code & test workflow
+- improve day to day workflow where possible (automate scripts)
+
 #### General Tech Stack
 My technology stack will be Linux, Nginx, Mysql, Docker, Wordpress + Woorcommerce, Jenkins, Elasticsearch, Puppet, Munin, Palantir Foundry, Github Copilot  
 
