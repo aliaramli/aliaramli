@@ -4,6 +4,7 @@ Currently I enjoy gazing at the 🌞 sun & 🌕 moon
 
 I'm comfortable coding in Python 🐍 , occassionally i code PHP, professionally i can still code in JAVA ☕ 😜 but not my preference.  
 
+#### Present Job
 And my current job scope is revolving around data transformations, analysis & analytic using PySpark, MatPlotlib, Palantir Foundry 
 
 My technology stack will be Linux, Nginx, Mysql, Docker, Wordpress + Woorcommerce, Jenkins, Elasticsearch, Puppet, Munin,   
