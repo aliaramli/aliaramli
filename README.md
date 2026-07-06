@@ -13,4 +13,4 @@
 - You think i am a good fit at your company? [send me an email](mailto:jaliascv@gmail.com)!
 
   recommended books to read
-  [progit](https://git-scm.com/book/en/v2)
+  - [progit](https://git-scm.com/book/en/v2)
