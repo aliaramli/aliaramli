@@ -17,6 +17,7 @@ I have a problem where i like to solve problem even though it might take longer 
    >“It's not that I'm so smart, it's just that I stay with problems longer”.
 
 
+#### My strength
 I believe my strength is more on reverse engineering, debugging and patching codes, automation scripting, maintaining servers, analyzing performance. 
 
 Still a long journey on designing robust, high performance, high availability  system . . . of course if you ask me to create an Application i can do  
