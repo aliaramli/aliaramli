@@ -8,7 +8,8 @@ I have a problem where i like to solve problem even though it might take longer 
    >“It's not that I'm so smart, it's just that I stay with problems longer”.
 
 
-I believe my strength is more on reverse engineering, debugging and patching codes, automation scripting, maintaining servers, analyzing performance. Still a long journey on designing robust, high performance, high availability  system . . . of course if you ask me to create an Application i can do  
+I believe my strength is more on reverse engineering, debugging and patching codes, automation scripting, maintaining servers, analyzing performance.  
+Still a long journey on designing robust, high performance, high availability  system . . . of course if you ask me to create an Application i can do  
 My concept of a software is "simple is more". Functionality matters based on user & business requirements.  
 Small tools/learning/projects codes all available in my git for your reference ~
 You think i am a good fit at your company? [send me an email](mailto:jaliascv@gmail.com)!  
