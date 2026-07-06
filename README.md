@@ -10,6 +10,7 @@ And my current job scope is revolving around data transformations, analysis & an
 #### General Tech Stack
 My technology stack will be Linux, Nginx, Mysql, Docker, Wordpress + Woorcommerce, Jenkins, Elasticsearch, Puppet, Munin, Palantir Foundry, Github Copilot  
 
+#### My Weakness
 I have a problem where i like to solve problem even though it might take longer time i'll not let it go. Unless it's due to framework or infrastructure limit. However not everyone can accept this working style..  
 
   do you recall this qoute?  
